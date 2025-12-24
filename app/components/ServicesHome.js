@@ -29,7 +29,7 @@ export default function ServicesHome() {
   return (
     <section className="py-16 bg-[#F8F9FC]">
       <div className="max-w-7xl mx-auto px-6">
-        
+
         {/* Heading */}
         <h2 className="text-3xl font-bold text-center text-[#0056D2]">
           Our Services
@@ -41,13 +41,13 @@ export default function ServicesHome() {
         {/* Services Grid */}
         <div className="grid md:grid-cols-3 gap-10">
           {services.map((item, index) => (
-            <div 
+            <div
               key={index}
               className="bg-white rounded-2xl shadow-md hover:shadow-xl transition overflow-hidden cursor-pointer"
             >
               {/* Image */}
-              <img 
-                src={item.image} 
+              <img
+                src={item.image}
                 alt={item.title}
                 className="w-full h-48 object-cover"
               />

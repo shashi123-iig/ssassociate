@@ -1,5 +1,5 @@
-export default function Featured() {
-  const features = [
+export default function Whychoose() {
+  const whychoose = [
     {
       icon: "👥",
       title: "Experienced Team",
@@ -28,16 +28,16 @@ export default function Featured() {
         <h2 className="text-3xl font-bold text-center text-[#0056D2] mb-4">
           Why Choose Us
         </h2>
-        <p className="text-center text-[#DADADA] mt-2 mb-12">
-          Discover what sets us apart in delivering exceptional services.
-        </p>
+        <p className="text-center mt-2 mb-12 text-black">
+           Discover what sets us apart in delivering exceptional services.
+         </p>
 
         <div className="grid md:grid-cols-4 gap-6">
-          {features.map((f, i) => (
+          {whychoose.map((f, i) => (
             <div key={i} className="bg-white p-6 rounded-lg shadow hover:shadow-lg transition text-center">
               <div className="text-[#0056D2] text-4xl mb-4">{f.icon}</div>
               <h3 className="text-lg font-semibold text-[#333333] mb-2">{f.title}</h3>
-              <p className="text-[#DADADA]">{f.desc}</p>
+              <p className="text-black">{f.desc}</p>
             </div>
           ))}
         </div>

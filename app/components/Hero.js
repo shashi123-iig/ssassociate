@@ -25,7 +25,7 @@ export default function Hero() {
         {/* RIGHT SIDE IMAGE */}
         <div className="flex justify-center">
           <Image
-            src="/images/homepage_new.png"
+            src="/images/banner.png"
             alt="Business"
             width={500}
             height={300}

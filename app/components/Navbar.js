@@ -102,9 +102,9 @@ export default function Navbar() {
                   />
                 </div>
                 <div>
-                  <label htmlFor="modal-service" className="block text-sm font-medium text-gray-700 mb-1">
-                    Service Interested In *
-                  </label>
+                   <label htmlFor="modal-service" className="block text-sm font-medium text-black mb-1">
+                     Service Interested In *
+                   </label>
                   <select
                     id="modal-service"
                     name="service"
