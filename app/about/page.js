@@ -156,10 +156,10 @@ export default function About() {
                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M16 7a4 4 0 11-8 0 4 4 0 018 0zM12 14a7 7 0 00-7 7h14a7 7 0 00-7-7z" />
                   </svg>
                 </div>
-                <h3 className="text-xl font-bold text-gray-900 text-center mb-2">Rajesh Kumar</h3>
+                <h3 className="text-xl font-bold text-gray-900 text-center mb-2">Satyabrata Das</h3>
                 <p className="text-blue-600 font-medium text-center mb-4">Founder & CEO</p>
                 <p className="text-gray-600 text-center text-sm leading-relaxed">
-                  With 15+ years in financial services, Rajesh leads our team with vision and expertise in business consulting and compliance.
+                  With 15+ years in financial services, Satyabrata leads our team with vision and expertise in business consulting and compliance.
                 </p>
               </div>
               <div className="bg-white p-8 rounded-2xl shadow-lg hover:shadow-xl transition-all duration-300 group">
@@ -168,7 +168,7 @@ export default function About() {
                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M16 7a4 4 0 11-8 0 4 4 0 018 0zM12 14a7 7 0 00-7 7h14a7 7 0 00-7-7z" />
                   </svg>
                 </div>
-                <h3 className="text-xl font-bold text-gray-900 text-center mb-2">Priya Sharma</h3>
+                <h3 className="text-xl font-bold text-gray-900 text-center mb-2">Shashikanta Das</h3>
                 <p className="text-green-600 font-medium text-center mb-4">Chief Financial Officer</p>
                 <p className="text-gray-600 text-center text-sm leading-relaxed">
                   Expert in taxation and accounting with a passion for helping businesses optimize their financial strategies.
@@ -180,7 +180,7 @@ export default function About() {
                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M16 7a4 4 0 11-8 0 4 4 0 018 0zM12 14a7 7 0 00-7 7h14a7 7 0 00-7-7z" />
                   </svg>
                 </div>
-                <h3 className="text-xl font-bold text-gray-900 text-center mb-2">Amit Patel</h3>
+                <h3 className="text-xl font-bold text-gray-900 text-center mb-2">Rajesh sahu</h3>
                 <p className="text-purple-600 font-medium text-center mb-4">Senior Consultant</p>
                 <p className="text-gray-600 text-center text-sm leading-relaxed">
                   Specialized in GST compliance and business advisory, helping clients navigate complex regulatory landscapes.
